@@ -1,0 +1,4 @@
+sound/
+*.log
+scripts/ffmpeg
+target/*
